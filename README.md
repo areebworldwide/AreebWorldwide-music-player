@@ -639,6 +639,9 @@ If you like this project, please consider giving it a ⭐ on GitHub!
 <div align="center">
 
 **Made with ❤️ by AreebWorldwide**
+<img width="1920" height="1051" alt="🎵 AreebWorldwide Music Player - Ultimate Edition 10_30_2025 10_28_07 PM" src="https://github.com/user-attachments/assets/fc9b8728-db6b-48c4-9563-9b09d4875e7f" />
+![Uploading 🎵 AreebWorldwide Music Player - Ultimate Edition 10_30_2025 10_28_07 PM.png…]()
+
 
 *If you found this helpful, consider buying me a coffee!* ☕
 
